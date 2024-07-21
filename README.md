@@ -1,7 +1,7 @@
 Greetings Everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</br></br>
+====================================================================================================================================
 My name is Ragini Gupta.
 ====================================================================================================================================
-
 Former Solutions Engineer Intern @Whatfix , B.Tech Computer Science Final Year Student
 
 * 🌍  I'm based in India
