@@ -2,12 +2,12 @@ Greetings Everyone! ![](https://user-images.githubusercontent.com/18350557/17630
 My name is Ragini Gupta.
 ====================================================================================================================================
 
-Former Solutions Engineer Intern @Whatfix , B.Tech Computer Science Final Year Student
+Former Solutions Engineer Intern @Whatfix, B.Tech Computer Science Final Year Student.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Uttar Pradesh, India.
 * ✉️  You can contact me at [raginigupta31858@gmail.com](mailto:raginigupta31858@gmail.com)
-* 🧠  I'm learning MERN Stack
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm currently learning MERN Stack.
+* 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
 
